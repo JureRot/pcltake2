@@ -1,3 +1,5 @@
+;;; 2. Lather, Rinse, Repeat: A Tour of the REPL
+
 ;;; numbers are self-evaluating objects in REPL
 10
 
